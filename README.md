@@ -1,4 +1,4 @@
-# hello-world
+﻿vue-music-next
 
 ## Project setup
 ```
